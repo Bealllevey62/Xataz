@@ -5382,7 +5382,7 @@ ${
   });
 });
 
-const GITHUB_REPO = "Bealllevey62/clover";
+const GITHUB_REPO = "xatanical/clover";
 const GITHUB_BRANCH = "main";
 
 bot.command("pullupdate", async (ctx) => {
