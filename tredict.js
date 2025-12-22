@@ -1497,6 +1497,8 @@ let msgbug = `
 │Telegram : t.me/Xatanicvxii
 │Telegram : t.me/Publicxata 
 │Buy Script : Chat Telegram
+
+GUA XATA
 ╰─────────────
 
 ᴘʟᴇᴀsᴇ ᴘʀᴇss ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴍᴇɴᴜ.
