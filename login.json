@@ -1,1 +1,16 @@
-[]
+{
+  "credentials": [
+    {
+      "userId": 5126860596,
+      "username": "xatanic",
+      "password": "123456",
+      "role": "owner"
+    },
+    {
+      "userId": 123456789,
+      "username": "bella",
+      "password": "pass123",
+      "role": "partner"
+    }
+  ]
+}
